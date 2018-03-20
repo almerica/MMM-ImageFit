@@ -46,7 +46,7 @@ Module.register("MMM-ImageFit",{
             img.src = futureURL;
             repeat = false;
         }
-        return iframe;
+        return img;
     }
 
 });
